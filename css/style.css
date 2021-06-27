@@ -7,7 +7,13 @@ body {
 }
 
 .brand_d {
-  color: green;
+  color: #00a950;
+}
+
+.navbar-brand {
+  font-size: 2.4rem;
+  margin-left: 6.3rem;
+  font-weight: bolder;
 }
 
 .navbar-light .navbar-brand:hover {
@@ -18,11 +24,11 @@ body {
   color: white;
 }
 .navbar-light .navbar-nav .nav-link:hover {
-  color: green;
+  color: #00a950;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
-  color: green;
+  color: orange;
 }
 
 .navbar-light .navbar-nav .nav-link.active:hover {
@@ -31,4 +37,40 @@ body {
 
 .navbar-light {
   background-color: black;
+}
+
+.btn-success {
+  margin-right: 9%;
+  height: 3rem;
+  border-radius: 10px;
+  width: 13rem;
+  background-color: #00a950;
+}
+
+.main-content {
+  color: white;
+  width: fit-content;
+  position: absolute;
+  left: 7.1rem;
+  top: 18rem;
+}
+
+.main-content-green {
+  color: #00a950;
+}
+
+.navbar {
+  margin-top: 2%;
+}
+
+.navbar-nav {
+  margin-left: 25%;
+}
+
+.nav-item {
+  padding-right: 3.125rem;
+}
+
+.order-btn {
+  width: 10rem;
 }
