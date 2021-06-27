@@ -54,9 +54,16 @@ body {
   left: 7.1rem;
   top: 15rem;
 }
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 3.5rem;
+}
 
 .main-content-green {
   color: #00a950;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
 }
 
 .navbar {
