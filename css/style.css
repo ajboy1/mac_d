@@ -81,3 +81,7 @@ body {
 .order-btn {
   width: 10rem;
 }
+
+.navbar-toggler-icon {
+  background-color: white;
+}
