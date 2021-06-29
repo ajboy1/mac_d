@@ -28,7 +28,7 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link.active {
-  color: orange;
+  color: #f5ae66;
 }
 
 .navbar-light .navbar-nav .nav-link.active:hover {
@@ -48,11 +48,9 @@ body {
 }
 
 .main-content {
+  margin: 10% 9%;
   color: white;
   width: fit-content;
-  position: absolute;
-  left: 7.1rem;
-  top: 15rem;
 }
 .title {
   font-family: "Montserrat", sans-serif;
@@ -84,4 +82,10 @@ body {
 
 .navbar-toggler-icon {
   background-color: white;
+}
+
+.burger-img {
+  margin-top: -30%;
+  height: 600px;
+  width: 600px;
 }
