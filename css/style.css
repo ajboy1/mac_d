@@ -85,7 +85,33 @@ body {
 }
 
 .burger-img {
-  margin-top: -30%;
+  margin-top: -20%;
   height: 600px;
   width: 600px;
+}
+
+.mushroom1 {
+  height: 150px;
+  width: 200px;
+  transform: rotate(120deg);
+  position: relative;
+  left: 900px;
+  bottom: 210px;
+}
+
+.leaf1 {
+  height: 150px;
+  width: 320px;
+  position: relative;
+  bottom: 300px;
+  right: 100px;
+}
+
+.leaf2 {
+  height: 150px;
+  width: 270px;
+  position: relative;
+  bottom: 550px;
+  left: 450px;
+  transform: rotate(110deg);
 }
