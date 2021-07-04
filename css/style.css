@@ -112,8 +112,9 @@ body {
   width: 270px;
   position: relative;
   bottom: 550px;
-  left: 450px;
+  left: 440px;
   transform: rotate(110deg);
+  z-index: -1;
 }
 
 .menu-btn {
