@@ -95,8 +95,9 @@ body {
   width: 200px;
   transform: rotate(120deg);
   position: relative;
-  left: 900px;
-  bottom: 210px;
+  left: 890px;
+  bottom: 220px;
+  z-index: -1;
 }
 
 .leaf1 {
